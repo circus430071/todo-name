@@ -12,7 +12,7 @@
 * Android, Linux Desktop環境で動く(できればWindowsも)
 
 ## 道具検討
-1. C++ & Qt
+1. C++ & Qt(もしこれでいくなら、計算のバックエンドをしっかり分離しておく)
 2. Flatter(?) + android studio kotolinとかそのへん つかったことねえ
 3. 少しリサーチする
 4. https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/#updating-dependencies　(新しいのでトラブりそう)
