@@ -15,3 +15,4 @@
 1. C++ & Qt
 2. Flatter(?) + android studio kotolinとかそのへん つかったことねえ
 3. 少しリサーチする
+4. https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/#updating-dependencies　(新しいのでトラブりそう)
