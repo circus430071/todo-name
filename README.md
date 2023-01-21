@@ -14,8 +14,8 @@
 ## 道具検討
 ||利点|欠点|
 |---|---|---|
-|C++ & Qt|動作が速い　QMLがクロスプラットフォーム|開発効率△　　Qt&QMLである程度複雑なことをしようとするとごちゃってきてきつくなる|
-|C# & [Avalonia](https://www.avaloniaui.net/)|UIがモダン|QtよりもっさりするUIができそう|
+|C++ & Qt|動作が速い　QMLがクロスプラットフォーム|開発効率△~×(多機能なUIとか作ろうとすると死ぬほど時間がかかる)　　Qt&QMLである程度複雑なことをしようとするとごちゃってきてきつくなる|
+|C# & [Avalonia](https://www.avaloniaui.net/)|UIがモダン　C#自体が比較的ハイレベル　UIのパーツが揃ってそうなのでちょっと手の込んだ機能も比較的簡単に実現できそう|QtよりもっさりするUIができそう|
 
 ~~2. Flatter(?) + android studio kotolinとかそのへん つかったことねえ
 https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/#updating-dependencies　(新しいのでトラブりそう)
