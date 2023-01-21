@@ -12,12 +12,13 @@
 * Android, Linux Desktop環境で動く(できればWindowsも)
 
 ## 道具検討
-1. C++ & Qt(もしこれでいくなら、計算のバックエンドをしっかり分離しておく)
-2. Flatter(?) + android studio kotolinとかそのへん つかったことねえ
-3. 少しリサーチする
-4. https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/#updating-dependencies　(新しいのでトラブりそう)
-最悪Dekstopだけで動けばいいかもしれない　その場合xamarin(?)もありか？
+||利点|欠点|
+|---|---|---|
+|C++ & Qt|動作が速い　QMLがクロスプラットフォーム|開発効率△　　Qt&QMLである程度複雑なことをしようとするとごちゃってきてきつくなる|
 
+~~2. Flatter(?) + android studio kotolinとかそのへん つかったことねえ
+https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/#updating-dependencies　(新しいのでトラブりそう)
+最悪Dekstopだけで動けばいいかもしれない　その場合xamarin(?)もありか？~~
 
 ## ポモドーロ法について
 https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF
