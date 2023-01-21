@@ -15,6 +15,7 @@
 ||利点|欠点|
 |---|---|---|
 |C++ & Qt|動作が速い　QMLがクロスプラットフォーム|開発効率△　　Qt&QMLである程度複雑なことをしようとするとごちゃってきてきつくなる|
+|C# & [Avalonia](https://www.avaloniaui.net/)|UIがモダン|QtよりもっさりするUIができそう|
 
 ~~2. Flatter(?) + android studio kotolinとかそのへん つかったことねえ
 https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/#updating-dependencies　(新しいのでトラブりそう)
