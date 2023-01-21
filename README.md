@@ -22,7 +22,7 @@
 https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/#updating-dependencies　(新しいのでトラブりそう)
 最悪Dekstopだけで動けばいいかもしれない　その場合xamarin(?)もありか？~~
 
-###　メモ
+###メモ
 https://docs.avaloniaui.net/tutorials/developing-for-mobile/create-a-cross-platform-solution
 
 
